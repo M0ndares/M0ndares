@@ -1,10 +1,9 @@
-<h3 align="center">🎸🏕️🌴</h3>
+<h1 align="center">🎸🏕️🌴</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m0ndares&label=Profile%20views&color=0e75b6&style=flat" alt="m0ndares" /> </p>
 
 - Some of my favourite projects may be found at: [DaRepo](https://m0ndares.github.io/main.html)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
