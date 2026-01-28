@@ -2,6 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m0ndares&label=Profile%20views&color=0e75b6&style=flat" alt="m0ndares" /> </p>
 
+- I'm a 19yo mexican trying to keep up with life...
 - Some of my favourite projects may be found at: [DaRepo](https://m0ndares.github.io/main.html)
 
 <p align="left">
