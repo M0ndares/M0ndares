@@ -1,6 +1,5 @@
-<h1 align="center">🎸🏕️🌴</h1>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=m0ndares&label=Profile%20views&color=0e75b6&style=flat" alt="m0ndares" /> </p>
+<img align="center" width="100%" height="40%" alt="mondares" src="https://github.com/user-attachments/assets/ba2bb0d7-05b8-4bda-8011-e8c941894aa6" />
+n="left"> <img src="https://komarev.com/ghpvc/?username=m0ndares&label=Profile%20views&color=0e75b6&style=flat" alt="m0ndares" /> </p>
 
 - I'm a 19yo mexican trying to keep up with life...
 - Some of my favourite projects may be found at: [DaRepo](https://m0ndares.github.io/main.html)
