@@ -1,11 +1,38 @@
-<img align="center" width="100%" height="40%" alt="mondares" src="https://github.com/user-attachments/assets/ba2bb0d7-05b8-4bda-8011-e8c941894aa6" />
+<img align="center" width="100%" alt="mondares" src="https://github.com/user-attachments/assets/ba2bb0d7-05b8-4bda-8011-e8c941894aa6" />
+
 <hr>
-<a href="<img width="33% height="33%" alt="daDog" src="https://github.com/user-attachments/assets/a9dae1b2-2f70-49d0-98c4-d5cec36574ac"/> target="_blank" -<h2>19yo mexican trying to keep up with life.<h2/> </a>
-<a> -<h2>Expertise balancing hard & softskills.<h2/> <img width="33% height="33%" alt="balance" src="https://github.com/user-attachments/assets/4b9b3251-a8c7-4094-af12-5b62674fc7d5"/> </a>
-<a href=" target="_blank" <img width="1080" height="1080" alt="repo" src="https://github.com/user-attachments/assets/087c8c47-82fb-49e6-aa96-1e3fc4ac37ba" /> -<h2>Some of my favourite projects may be found at: [DaRepo](https://m0ndares.github.io/main.html).<h2/> </a>
+
+<table border="0">
+  <tr>
+    <td width="50%" align="center">
+      <img width="80%" alt="daDog" src="https://github.com/user-attachments/assets/a9dae1b2-2f70-49d0-98c4-d5cec36574ac"/>
+    </td>
+    <td width="50%">
+      <h2>19yo mexican trying to keep up with life.</h2>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%">
+      <h2>Expertise balancing hard & softskills.</h2>
+    </td>
+    <td width="50%" align="center">
+      <img width="80%" alt="balance" src="https://github.com/user-attachments/assets/4b9b3251-a8c7-4094-af12-5b62674fc7d5"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%" align="center">
+      <img width="80%" alt="repo" src="https://github.com/user-attachments/assets/087c8c47-82fb-49e6-aa96-1e3fc4ac37ba" />
+    </td>
+    <td width="50%">
+      <h2>Some of my favourite projects may be found at: <a href="https://m0ndares.github.io/main.html">DaRepo</a>.</h2>
+    </td>
+  </tr>
+</table>
 
 <h3 align="left">Languages & Tools:</h3>
-<p align="left"> 
+<p align="left">
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
@@ -16,15 +43,4 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-</p>
-
----
-
-Meet me at midnight, or at [LinkedIn](https://www.linkedin.com/in/osval-montesinos-966bb0371/) / [Email](mailto:m0nndares@gmail.com)
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height
