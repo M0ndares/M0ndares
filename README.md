@@ -1,7 +1,7 @@
 <img align="center" width="100%" height="40%" alt="mondares" src="https://github.com/user-attachments/assets/ba2bb0d7-05b8-4bda-8011-e8c941894aa6" />
 <hr>
 <a href="<img width="33% height="33%" alt="daDog" src="https://github.com/user-attachments/assets/a9dae1b2-2f70-49d0-98c4-d5cec36574ac"/> target="_blank" -<h2>19yo mexican trying to keep up with life.<h2/> </a>
-<a> -<h2>Expertise balancing hard & softskills.<h2/> href="<img width="1080" height="1080" alt="balance" src="https://github.com/user-attachments/assets/4b9b3251-a8c7-4094-af12-5b62674fc7d5"/> </a>
+<a> -<h2>Expertise balancing hard & softskills.<h2/> <img width="33% height="33%" alt="balance" src="https://github.com/user-attachments/assets/4b9b3251-a8c7-4094-af12-5b62674fc7d5"/> </a>
 <a href=" target="_blank" <img width="1080" height="1080" alt="repo" src="https://github.com/user-attachments/assets/087c8c47-82fb-49e6-aa96-1e3fc4ac37ba" /> -<h2>Some of my favourite projects may be found at: [DaRepo](https://m0ndares.github.io/main.html).<h2/> </a>
 
 <h3 align="left">Languages & Tools:</h3>
