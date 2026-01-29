@@ -7,17 +7,19 @@
   <br>
   <h2>19yo mexican trying to keep up with life.</h2>
 </p>
-
+<br clear="all" />
 <p>
   <img src="https://github.com/user-attachments/assets/4b9b3251-a8c7-4094-af12-5b62674fc7d5" align="right" width="30%" style="margin-left: 20px;" />
   <br>
   <h2 align="left">Expertise balancing hard & softskills.</h2>
 </p>
+<br clear="all" />
 <p>
   <img src="https://github.com/user-attachments/assets/087c8c47-82fb-49e6-aa96-1e3fc4ac37ba" align="left" width="30%" style="margin-right: 20px;" />
   <br>
   <h2>Some of my favourite projects may be found at: <a href="https://m0ndares.github.io/main.html">DaRepo</a>.</h2>
 </p>
+<br clear="all" />
 
 <h2 align="left">Languages & Tools:</h2>
 
