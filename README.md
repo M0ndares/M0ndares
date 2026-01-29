@@ -2,24 +2,26 @@
 
 <hr>
 
-<p>
-  <img src="https://github.com/user-attachments/assets/a9dae1b2-2f70-49d0-98c4-d5cec36574ac" align="left" width="30%" style="margin-right: 20px;" />
-  <br>
-  <h2>19yo mexican trying to keep up with life.</h2>
-</p>
-<br clear="all" />
-<p>
-  <img src="https://github.com/user-attachments/assets/4b9b3251-a8c7-4094-af12-5b62674fc7d5" align="right" width="30%" style="margin-left: 20px;" />
-  <br>
-  <h2 align="left">Expertise balancing hard & softskills.</h2>
-</p>
-<br clear="all" />
-<p>
-  <img src="https://github.com/user-attachments/assets/087c8c47-82fb-49e6-aa96-1e3fc4ac37ba" align="left" width="30%" style="margin-right: 20px;" />
-  <br>
-  <h2>Some of my favourite projects may be found at: <a href="https://m0ndares.github.io/main.html">DaRepo</a>.</h2>
-</p>
-<br clear="all" />
+<table border="0" width="100%">
+  <tr>
+    <td width="25%" align="center"><img src="https://github.com/user-attachments/assets/a9dae1b2-2f70-49d0-98c4-d5cec36574ac" width="100%"/></td>
+    <td width="75%"><h3>19yo mexican trying to keep up with life.</h3></td>
+  </tr>
+</table>
+
+<table border="0" width="100%">
+  <tr>
+    <td width="75%" align="right"><h3>Expertise balancing hard & softskills.</h3></td>
+    <td width="25%" align="center"><img src="https://github.com/user-attachments/assets/4b9b3251-a8c7-4094-af12-5b62674fc7d5" width="100%"/></td>
+  </tr>
+</table>
+
+<table border="0" width="100%">
+  <tr>
+    <td width="25%" align="center"><img src="https://github.com/user-attachments/assets/087c8c47-82fb-49e6-aa96-1e3fc4ac37ba" width="100%"/></td>
+    <td width="75%"><h3>Some of my favourite projects: <a href="https://m0ndares.github.io/main.html">DaRepo</a>.</h3></td>
+  </tr>
+</table>
 
 <h2 align="left">Languages & Tools:</h2>
 
