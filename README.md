@@ -1,27 +1,28 @@
 <img align="center" width="100%" alt="mondares" src="https://github.com/user-attachments/assets/ba2bb0d7-05b8-4bda-8011-e8c941894aa6" />
 
-<hr>
+<div align="center">
+  <br>
+  <p><em>19yo mexican developer & AI enthusiast crafting digital experiences.</em></p>
+  <hr width="50%">
+</div>
 
-<table border="0" width="100%">
-  <tr>
-    <td width="25%" align="center"><img src="https://github.com/user-attachments/assets/a9dae1b2-2f70-49d0-98c4-d5cec36574ac" width="100%"/></td>
-    <td width="75%"><h3>19yo mexican trying to keep up with life.</h3></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a9dae1b2-2f70-49d0-98c4-d5cec36574ac" width="120" />
+  <br>
+  <strong>Keeping up with life, one line of code at a time.</strong>
+</p>
 
-<table border="0" width="100%">
-  <tr>
-    <td width="75%" align="right"><h3>Expertise balancing hard & softskills.</h3></td>
-    <td width="25%" align="center"><img src="https://github.com/user-attachments/assets/4b9b3251-a8c7-4094-af12-5b62674fc7d5" width="100%"/></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4b9b3251-a8c7-4094-af12-5b62674fc7d5" width="120" />
+  <br>
+  <strong>Bridging the gap between hard logic and soft skills.</strong>
+</p>
 
-<table border="0" width="100%">
-  <tr>
-    <td width="25%" align="center"><img src="https://github.com/user-attachments/assets/087c8c47-82fb-49e6-aa96-1e3fc4ac37ba" width="100%"/></td>
-    <td width="75%"><h3>Some of my favourite projects: <a href="https://m0ndares.github.io/main.html">DaRepo</a>.</h3></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/087c8c47-82fb-49e6-aa96-1e3fc4ac37ba" width="120" />
+  <br>
+  <strong>Explore my universe at <a href="https://m0ndares.github.io/main.html">DaRepo</a>.</strong>
+</p>
 
 <h2 align="left">Languages & Tools:</h2>
 
@@ -63,4 +64,8 @@
 
 </p>
 <hr>
-Meet me at midnight, or at [LinkedIn](https://www.linkedin.com/in/osval-montesinos-966bb0371/) / [Email](mailto:m0nndares@gmail.com)"
+<p align="center">
+  <a href="https://www.linkedin.com/in/osval-montesinos-966bb0371/">LinkedIn</a> • 
+  <a href="mailto:m0nndares@gmail.com">Email</a> • 
+  <a href="#">Resume</a>
+</p>
