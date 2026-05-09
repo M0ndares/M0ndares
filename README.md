@@ -6,7 +6,7 @@
 - Some of my favourite projects may be found at: [DaRepo](https://m0ndares.github.io/main.html)
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">cv2, tensorflow, numpy, keras, and camping enthuisast</p>
+<p align="left">cv2, tensorflow, numpy, keras, and whatever else is needed</p>
 <hr>
 
 Meet me at midnight, or at [LinkedIn](https://www.linkedin.com/in/osval-montesinos-966bb0371/) / [Email](mailto:m0nndares@gmail.com)
