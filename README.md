@@ -1,5 +1,4 @@
-<img align="center" width="100%" height="40%" alt="mondares" src="<img width="2160" height="400" alt="mondares" src="https://github.com/user-attachments/assets/b06f9589-47f5-40c4-b2e5-45997abc117a" />
-"/>
+![mondares] ("https://github.com/user-attachments/assets/b06f9589-47f5-40c4-b2e5-45997abc117a")
 <hr>
 
 - 19yo mexican trying to keep up with life.
