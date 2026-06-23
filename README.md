@@ -1,4 +1,4 @@
-![mondares] ("https://github.com/user-attachments/assets/b06f9589-47f5-40c4-b2e5-45997abc117a")
+![mondares](https://github.com/user-attachments/assets/b06f9589-47f5-40c4-b2e5-45997abc117a)
 <hr>
 
 - 19yo mexican trying to keep up with life.
