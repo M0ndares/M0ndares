@@ -1,4 +1,5 @@
-<img align="center" width="100%" height="40%" alt="mondares" src="https://github.com/user-attachments/assets/ba2bb0d7-05b8-4bda-8011-e8c941894aa6"/>
+<img align="center" width="100%" height="40%" alt="mondares" src="<img width="2160" height="400" alt="mondares" src="https://github.com/user-attachments/assets/b06f9589-47f5-40c4-b2e5-45997abc117a" />
+"/>
 <hr>
 
 - 19yo mexican trying to keep up with life.
@@ -6,7 +7,7 @@
 - Some of my favourite projects may be found at: [DaRepo](https://m0ndares.github.io/main.html)
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">cv2, tensorflow, numpy, keras, and whatever else is needed</p>
+<p align="left">cv2, tensorflow, numpy, keras, supervision...</p>
 <hr>
 
 Meet me at midnight, or at [LinkedIn](https://www.linkedin.com/in/osval-montesinos-966bb0371/) / [Email](mailto:m0nndares@gmail.com)
