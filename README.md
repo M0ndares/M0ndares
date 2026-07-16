@@ -1,15 +1,4 @@
-<div style="position: relative; width: 100%; display: flex; justify-content: center; background-color: white; border-radius: 20px; padding: 20px;">
-  <img src="https://github.com/user-attachments/assets/b06f9589-47f5-40c4-b2e5-45997abc117a" alt="mondares" style="width: 300px; display: block; border-radius: 10px;">
-
-  <div style="position: absolute; top: 20px; left: calc(50% - 150px); width: 300px; height: calc(100% - 40px); border-radius: 10px; background-color: rgba(255, 0, 0, 0.2); backdrop-filter: hue-rotate(0deg); animation: changeHue 10s infinite linear;"></div>
-</div>
-
-<style>
-@keyframes changeHue {
-  0% { backdrop-filter: hue-rotate(0deg); }
-  100% { backdrop-filter: hue-rotate(360deg); }
-}
-</style>
+<img width="750" height="160" alt="Code_Generated_Image" src="https://github.com/user-attachments/assets/f0893f1d-190c-45ba-9717-3f6e5d107ef2" />
 
 <hr>
 
