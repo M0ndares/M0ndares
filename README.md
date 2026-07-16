@@ -9,7 +9,9 @@
   0% { backdrop-filter: hue-rotate(0deg); }
   100% { backdrop-filter: hue-rotate(360deg); }
 }
-</style><hr>
+</style>
+
+<hr>
 
 - 19yo mexican trying to keep up with life.
 - Expertise balancing hard & softskills. 
