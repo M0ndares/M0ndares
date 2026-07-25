@@ -1,4 +1,4 @@
-![mygif](https://github.com/user-attachments/assets/9fd5909a-558f-4918-8daa-46ebd3ebe19d)
+![mygif](https://github.com/user-attachments/assets/c7f2c10a-baf0-4f7b-8fcb-1104a4397b6b)
 - 19yo mexican trying to keep up with life.
 - Expertise balancing hard & softskills. 
 - Some of my favourite projects may be found at: [DaRepo](https://m0ndares.github.io/main.html)
