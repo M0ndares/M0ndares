@@ -1,3 +1,4 @@
+<hr>
 ![mygif](https://github.com/user-attachments/assets/c7f2c10a-baf0-4f7b-8fcb-1104a4397b6b)
 <hr>
 - 19yo mexican trying to keep up with life.
