@@ -3,7 +3,7 @@
 <!-- ABOUT ME SECTION -->
 <div align="left">
 
-Specializing in **object detection and segmentation** while balancing technical execution with soft skills to bring Artificial Intelligence projects to life.
+Hello world! My name is Osval Valladares and I'm currently a software engineering student specializing in **object detection and segmentation** while balancing technical execution with soft skills to bring Artificial Intelligence projects to life.
 
 * 📍 Based in Colima, Mexico.
 * 🎸 **2000s rock** devotee.
@@ -65,8 +65,8 @@ Specializing in **object detection and segmentation** while balancing technical 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-two.vercel.app/api/top-langs/?username=M0ndares&layout=compact&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.pw/api/top-langs/?username=M0ndares&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="160"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=M0ndares&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=M0ndares&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="160"/>
 </p>
 
 </div>
