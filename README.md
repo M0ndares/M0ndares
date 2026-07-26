@@ -3,7 +3,7 @@
 <!-- ABOUT ME SECTION -->
 <div align="left">
 
-Hello world! My name is Osval Valladares. I'm currently a software engineering student specializing in **object detection and segmentation**. I enjoy balancing technical execution with soft skills to bring Artificial Intelligence projects to life. I'm currently 19 years old and I look forward to become part of
+Hello world! My name is Osval Valladares. I'm currently a software engineering student specializing in **object detection and segmentation**. I enjoy balancing technical execution with soft skills to bring Artificial Intelligence projects to life. I'm currently 19 years old and I aim to become part of the next generation of AI engineers.
 
 * 📍 Based in Colima, Mexico.
 * 🎸 **2000s rock** devotee.
@@ -29,12 +29,10 @@ Hello world! My name is Osval Valladares. I'm currently a software engineering s
   <img src="https://img.shields.io/badge/Groq-F05032?style=for-the-badge&logo=groq&logoColor=white" alt="Groq" height="28"/>
 </div>
 
----
-
 <!-- FEATURED PROJECTS -->
 <div align="center">
 
-### 🧭 Featured Projects
+## 🧭 Featured Projects
 
 <table>
   <tr>
@@ -57,12 +55,10 @@ Hello world! My name is Osval Valladares. I'm currently a software engineering s
 
 </div>
 
----
-
 <!-- STATS -->
 <div align="center">
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=M0ndares&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="160"/>
