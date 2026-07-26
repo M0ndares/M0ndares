@@ -1,9 +1,9 @@
 ![mygif](https://github.com/user-attachments/assets/c7f2c10a-baf0-4f7b-8fcb-1104a4397b6b)
 <hr>
 <!-- ABOUT ME SECTION -->
-<div align="justify">
+<div align="center">
 
-Hello world! My name is Osval Valladares. I'm a software engineering student specializing in object detection and segmentation. I enjoy balancing technical execution with soft skills to bring Artificial Intelligence projects to life. I aim to become part of the next generation of AI engineers, working one step at a time.
+###### Hello world! My name is Osval Valladares. I'm a software engineering student specializing in object detection and segmentation. I enjoy balancing technical execution with soft skills to bring Artificial Intelligence projects to life. I aim to become part of the next generation of AI engineers, working one step at a time.
 
 ### 📍 Based in Colima, Mexico.
 ### 🎸 **2000s rock** devotee.
