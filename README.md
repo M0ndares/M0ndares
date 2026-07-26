@@ -3,7 +3,7 @@
 <!-- ABOUT ME SECTION -->
 <div align="center">
 
-*Hello world! My name is Osval Valladares. I'm a software engineering student specializing in object detection and segmentation. I enjoy balancing technical execution with soft skills to bring Artificial Intelligence projects to life. I aim to become part of the next generation of AI engineers, working one step at a time.*
+*Hello world! My name is Osval Valladares. I'm a software engineering student specializing in object detection and segmentation. I enjoy balancing technical execution with soft skills to bring Artificial Intelligence projects to life, as I aim to become part of the next generation of AI engineers, working one step at a time. Welcome to my profile!*
 
 ### 📍 Based in Colima, Mexico.
 ### 🎸 **2000s rock** devotee.
@@ -47,7 +47,7 @@
     </td>
     <td width="50%" align="center">
       <h4>📌 Spatula, my latest project</h4>
-      <p>Capture, choose cook. AI powered chef. (2026)</p>
+      <p>Capture, choose, cook. AI powered chef. (2026)</p>
       <a href="https://github.com/M0ndares/spatula">
         <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
       </a>
@@ -77,8 +77,7 @@
 <br>
 
 # Let's connect!
-
-<a href="www.linkedin.com/in/osval-valladares-966bb0371">
+<a href="https://www.linkedin.com/in/osval-valladares-966bb0371/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:m0nndares@gmail.com">
