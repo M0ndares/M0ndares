@@ -29,6 +29,8 @@ Hello world! My name is Osval Valladares. I'm currently a software engineering s
   <img src="https://img.shields.io/badge/Groq-F05032?style=for-the-badge&logo=groq&logoColor=white" alt="Groq" height="28"/>
 </div>
 
+<br>
+
 <!-- FEATURED PROJECTS -->
 <div align="center">
 
@@ -54,6 +56,8 @@ Hello world! My name is Osval Valladares. I'm currently a software engineering s
 </table>
 
 </div>
+
+<br>
 
 <!-- STATS -->
 <div align="center">
