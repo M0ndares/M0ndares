@@ -66,7 +66,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=M0ndares&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=M0ndares&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook" alt="Top Languages" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=M0ndares&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="160" alt="GitHub Stats" />
 </p>
 </div>
 
