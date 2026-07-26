@@ -3,7 +3,7 @@
 <!-- ABOUT ME SECTION -->
 <div align="left">
 
-Hello world! My name is Osval Valladares and I'm currently a software engineering student specializing in **object detection and segmentation** while balancing technical execution with soft skills to bring Artificial Intelligence projects to life.
+Hello world! My name is Osval Valladares. I'm currently a software engineering student specializing in **object detection and segmentation**. I enjoy balancing technical execution with soft skills to bring Artificial Intelligence projects to life. I'm currently 19 years old and I look forward to become part of
 
 * 📍 Based in Colima, Mexico.
 * 🎸 **2000s rock** devotee.
@@ -40,7 +40,7 @@ Hello world! My name is Osval Valladares and I'm currently a software engineerin
   <tr>
     <td width="50%" align="center">
       <h4>📌 Da Repo, my bastion</h4>
-      <p>.</p>
+      <p>My portfolio. Every project I've been part of.</p>
       <a href="https://m0ndares.github.io/main.html">
         <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
       </a>
@@ -66,9 +66,8 @@ Hello world! My name is Osval Valladares and I'm currently a software engineerin
 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=M0ndares&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=M0ndares&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="160"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=M0ndares&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook" alt="Top Languages" height="160"/>
 </p>
-
 </div>
 
 
