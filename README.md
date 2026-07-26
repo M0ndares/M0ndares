@@ -3,9 +3,7 @@
 <!-- ABOUT ME SECTION -->
 <div align="center">
 
-#### Hello world! My name is Osval Valladares. I'm a software engineering student specializing in object detection and segmentation. I enjoy balancing technical execution with soft skills to bring Artificial Intelligence projects to life. I aim to become part of the next generation of AI engineers, working one step at a time.
-
-<br>
+*Hello world! My name is Osval Valladares. I'm a software engineering student specializing in object detection and segmentation. I enjoy balancing technical execution with soft skills to bring Artificial Intelligence projects to life. I aim to become part of the next generation of AI engineers, working one step at a time.*
 
 ### 📍 Based in Colima, Mexico.
 ### 🎸 **2000s rock** devotee.
