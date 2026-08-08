@@ -40,7 +40,7 @@
   <tr>
     <td width="50%" align="center">
       <h4>📌 Da Repo, my bastion</h4>
-      <p>My portfolio. Every project I've been part of.</p>
+      <p>Every project I've been part of.</p>
       <a href="https://m0ndares.github.io/main.html">
         <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
       </a>
