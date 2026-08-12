@@ -7,7 +7,7 @@
 
 ### 📍 Based in Colima, Mexico.
 ### 🎸 **2000s rock** devotee.
-### 🛠️ Technologies and tools I work with:
+### 🛠️ My tech stack:
 
 </div>
 
