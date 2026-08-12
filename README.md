@@ -47,7 +47,7 @@
     </td>
     <td width="50%" align="center">
       <h4>📌 Spatula, my latest project</h4>
-      <p>Capture, choose, cook. AI powered chef.</p>
+      <p>Capture, choose, cook.</p>
       <a href="https://github.com/M0ndares/spatula">
         <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
       </a>
