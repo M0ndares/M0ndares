@@ -3,7 +3,7 @@
 
 <div align="center">
 
-#### *Hello world!* I'm a software engineering student specializing in object detection, tracking, and segmentation. I enjoy balancing technical execution with soft skills to bring Artificial Intelligence projects to life, as I aim to become part of the next generation of AI engineers. *Welcome to my profile!*
+#### *Hello world!* I'm a software engineering student specializing in object detection, tracking, and segmentation. I am also proficient with Full-Stack development, so that my Computer Vision models are not just developed as projects, but as end-to-end solutions for real-life problems. *Welcome to my profile!*
 
 ### 📍 Based in Colima, Mexico.
 ### 🎸 **2000s rock** devotee.
